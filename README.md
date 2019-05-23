@@ -1,5 +1,5 @@
 # Practica03-Javascript
 
-calculadora
-validacion
-galeria
+#calculadora
+#validacion
+#galeria
